@@ -1,5 +1,5 @@
 你好 👋
-![头像](9.jpg)
+![头像](8.jpg)
 <!--
 **duwas3/duwas3**是a ✨ _special_ ✨ 存储库，因为它的“README.md”(此文件)出现在GitHub配置文件中。
 
